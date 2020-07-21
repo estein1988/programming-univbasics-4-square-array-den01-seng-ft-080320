@@ -1,5 +1,5 @@
 def square_array(numbers)
-  numbers = [1,2,3]
+  numbers = [9,10,16,625]
   new_array = []
     numbers.length.times do |index|
     new_array.push(numbers[index]**2)
